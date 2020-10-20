@@ -1,0 +1,32 @@
+<?php
+
+include "common/header.php";
+include "common/navigation.php";
+
+
+
+?>
+
+
+      <div class="d-flex align-items-center my-5 py-5 unique-color">
+        <div class="container  text-center ">
+          <h3 class="text-white">Payment</h3>
+        </div>
+      </div>
+
+<div class="container">
+
+      <!--Section: Block Content-->
+      <section class="mt-5 mb-4">
+
+
+
+      </section>
+      <!--Section: Block Content-->
+
+
+    </div>
+    <?php
+include "common/footer.php";
+
+?>

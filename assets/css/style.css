@@ -1,0 +1,35 @@
+.btn,button,a,a > span, footer span,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+ font-family: 'Product Sans'!important;
+ font-weight: 900!important;
+ 
+ 
+}
+
+span,p{
+  font-family: 'Segoe UI'!important;
+  font-weight: 500!important; 
+  
+}
+.fas ,i{
+  font-family: 'Font Awesome 5 Free'!important;
+}
+
+
+.navbar-default{
+    transition:1000ms cubic-bezier(0.1);
+    background:transparent;
+    /* color: red !important; */
+
+  }
+  .navbar-default.scrolled{
+    /* background:#000; */
+    background-color: #091035;
+    box-shadow: 0px 0px 10px 0px #9E9E9E;
+  }
+  .deep-purple{
+    background-color:#7e57c2 !important;;
+  }
+.indigo{
+  /* color: #7e57c2;
+  background-color:#7e57c2; */
+}
